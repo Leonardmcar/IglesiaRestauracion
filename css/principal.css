@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding-top: 80px; /* Evita que la barra tape la parte superior del contenido */
   background-color: #000000;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%), url("./img/inicio/FondopaginaInicio.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%), url("../img/inicio/FondopaginaInicio.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
