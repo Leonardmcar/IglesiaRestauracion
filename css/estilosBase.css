@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap&family=Montserrat:wght@700;800&display=swap');
+
+:root {
+  /* Tipografías */
+    --font-titulo: 'Montserrat', sans-serif;
+    --font-subtitulo: 'Poppins', sans-serif;
+    --font-texto: 'Poppins', sans-serif;
+
+  /* Paleta de colores globales */
+    --color-principal: #ffffff;
+    --color-secundario: #cccccc;
+    --color-fondo: #000000;
+    --color-dorado: #E5C158;
+    --color-dorado-hover: #f3d478;
+}
+
+/* ==========================================================
+   2. REGLAS GENERALES DE APARIENCIA
+   ========================================================== */
+body {
+  font-family: var(--font-texto);
+  color: var(--color-principal);
+  background-color: var(--color-fondo);
+}
+
+/* ==========================================================
+   3. CLASES UTILITARIAS (Para asignar el tipo de texto fácil)
+   ========================================================== */
+/* Para cualquier Título */
+.titulo, h1 {
+  font-family: var(--font-titulo);
+  color: var(--color-principal);
+}
+
+/* Para cualquier Subtítulo */
+.subtitulo, h2, h3 {
+  font-family: var(--font-subtitulo);
+  font-weight: 600;
+  color: var(--color-principal);
+}
+
+/* Para Texto Normal / Párrafos */
+.texto-normal, p {
+  font-family: var(--font-texto);
+  color: var(--color-principal);
+}

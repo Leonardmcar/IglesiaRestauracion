@@ -1,0 +1,26 @@
+Estrucutra pagina restauracion
+index.html - incio
+    - header contiene: entradas a las diferentes secciones de la pagina
+    - Body contiene: logo, nombre completo y descripcion -> Ultima transmicion en vivo(links para Youtube y facebook) -> visión y misión -> Carrete de fotos
+    -footer contiene: Dirección y numeros de contacto
+
+Header pestañas:
+    - Temas(Temas.html)
+    - Grupos CAFE(CAFE.html)
+    - Anuncios(anun.html)
+    - Devocional(devo.html)
+    - Escuela Adulam(Adulam.html)
+    - Legendarios(lgds.html)
+
+
+body: 
+    - Descripción: Iglesia Cristiana Familiar de Restauración
+    Somos una comunidad de fe comprometida con Dios y con las familias de nuestra ciudad. En Iglesia Restauración buscamos ser una casa donde cada persona pueda encontrarse con Dios, crecer en su relación con Él y caminar acompañada por una familia espiritual.
+    
+    Creemos en el poder transformador de Jesucristo y en una iglesia que sirve, adora, enseña y acompaña a cada generación. Somos una comunidad que abre sus puertas para recibir a familias, jóvenes, niños y adultos, creando un espacio donde todos puedan sentirse parte y descubrir el propósito de Dios para sus vidas.
+
+
+    - Visión: Ser una Iglesia levantada y guiada por el Espíritu Santo, que entiende y participa activamente en el propósito de Dios para nuestra ciudad. Una iglesia que no se esconde del mundo, sino que se involucra en él para transformarlo.
+
+    - Misión: Nuestra misión es manifestar el corazón del Padre proclamando a Jesucristo como único camino a la vida eterna, edificando a cada creyente a través de la predicación, la formación doctrinal y la adoración, hasta ver familias completamente restauradas.
+
